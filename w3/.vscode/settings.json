@@ -1,0 +1,11 @@
+{
+    "html.suggest.html5": true,
+    "html.autoClosingTags": true,
+    "html.validate.scripts": true,
+    "html.validate.styles": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    }
+}
